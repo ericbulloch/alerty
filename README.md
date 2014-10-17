@@ -22,4 +22,4 @@ If you run the previous command as the user bob, you can then use the `client.sh
 
 You could also tell a user on the LAN at 192.168.10.5 that has started the server they are awesome with the following command:
 
-`./client.sh 192.168.10.5 "You are awesome!"
+`./client.sh 192.168.10.5 "You are awesome!"`
