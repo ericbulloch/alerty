@@ -5,5 +5,5 @@ while true; do
     # notify-send [OPTION...] <SUMMARY> [BODY] - create a notification
     # -t Specifies the timeout in milliseconds at which to expire the notification.
     # -a Specifies the app name for the icon
-    notify-send -t 3000 -a "Alerty" "Status Report" "$line"
+    notify-send -t 1000 -a "Alerty" "Status Report" "$line"
 done
